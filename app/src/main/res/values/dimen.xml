@@ -1,0 +1,5 @@
+<resources>
+
+    <dimen name="x10">10dp</dimen>
+    <dimen name="x0">0dp</dimen>
+</resources>

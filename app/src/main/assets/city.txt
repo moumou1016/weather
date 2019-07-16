@@ -1,0 +1,11 @@
+{"citys":[
+    {"cityName": "Sydney",
+    "cityCode:": "00001"
+    },
+    {"cityName": "Melbourne",
+    "cityCode:": "00002"
+    },
+    {"cityName": "Wollongong",
+    "cityCode:": "00003"
+    }
+]}
